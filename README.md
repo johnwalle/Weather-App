@@ -1,5 +1,5 @@
-# **WEATHER-APP**
-![Alt Text](https://i.imgur.com/1vOaLcj.png)
+# **Weather-App**
+![Alt Text](https://i.imgur.com/bpGYplu.png)
 
 
 # Installation
